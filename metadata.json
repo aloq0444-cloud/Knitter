@@ -1,0 +1,6 @@
+{
+  "name": "Nitka Love Preview Card",
+  "description": "High-impact promotional preview card for boutique fashion brand Nitka Love",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
